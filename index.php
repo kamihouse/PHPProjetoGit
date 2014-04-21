@@ -8,4 +8,5 @@
 
 echo 'Ok';
 echo 'Teste Thiago';
+echo 'Novo teste';
 
